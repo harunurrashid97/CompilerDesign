@@ -7,7 +7,7 @@ package calculationofstring;
 
 import java.util.Scanner;
 
-public class MainClass
+public class Assignment2
 {	
 
 	private static Scanner scanner = new Scanner(System.in);;
